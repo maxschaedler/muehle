@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Spielbrett_gezeichnet_2.png</file>
+    </qresource>
+</RCC>
